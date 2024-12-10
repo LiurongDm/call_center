@@ -1,0 +1,44 @@
+[
+  {
+      "name": "inbount呼叫量",
+      "children": [
+          {
+              "name": "GLOBAL",
+              "value": 6202
+          },
+          {
+              "name": "LEVEL 1 ECOMMERCE",
+              "value": 4013
+          },
+          {
+              "name": "LEVEL2-MIDIAS SOCIAIS",
+              "value": 21022
+          },
+          {
+              "name": "LEVEL 2 MARKETPLACE",
+              "value": 16203
+          }
+      ]
+  },
+  {
+      "name": "outbound呼叫量",
+      "children": [
+          {
+              "name": "GLOBAL",
+              "value": 56202
+          },
+          {
+              "name": "LEVEL 1 ECOMMERCE",
+              "value": 42013
+          },
+          {
+              "name": "LEVEL2-MIDIAS SOCIAIS",
+              "value": 210282
+          },
+          {
+              "name": "LEVEL 2 MARKETPLACE",
+              "value": 168203
+          }
+      ]
+  }
+]
